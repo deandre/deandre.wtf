@@ -1,0 +1,106 @@
+---
+#-------------------------------
+# Site Settings
+title: DEANDRE.WTF
+logo: # You can add own logo. For example "/images/logo.png".
+description: the personal website of deandre harris
+
+#-------------------------------
+# Author Global Settings
+author:
+  author__name: dh.
+  author__bio: DeAndre Harris is a photographer and technology enthusiast based in Cape Town. This is their personal website — a space for sharing ideas, stories, and inspiration.
+  author__avatar: /images/01-1.jpg
+
+#-------------------------------
+# Navigation Settings
+menu__settings:
+  menu__items:
+    - title: "Home"
+      url: "/"
+    - title: "About"
+      url: "/about/"
+    - title: "Photography"
+      url: "/photography"
+    - title: "Contact"
+      url: "/contact/"
+
+#-------------------------------
+# Hero Settings
+hero:
+  hero__title: DeAndre Harris is a photographer and technology enthusiast based in Cape Town. This is their personal website — a space for sharing ideas, stories, and inspiration.
+
+#-------------------------------
+# Blog Settings
+blog:
+  blog__title: Blog
+  blog__description: Musings of an awkward gent.
+
+#-------------------------------
+# Recommended Tag Settings
+tag:
+  enable: false
+  tag__title: Recommended
+  tag__name: Motivation
+
+#-------------------------------
+# Newsletter Settings
+mailchimp:
+  enable: false
+  mailchimp__identifier: frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3 # Add your MailChimp form identifier. For example - frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3
+  mailchimp__title: Get interesting news
+  mailchimp__description: Subscribe to our newsletter and we’ll send you the emails of latest posts.
+  mailchimp__input__text: Your Email Address...
+  mailchimp__button__text: Subscribe
+  mailchimp__background__image: "/images/110.jpg"
+
+#-------------------------------
+# Footer Settings
+
+# Footer Navigation
+footer__menu__settings:
+  menu__items:
+    - title: "Home"
+      url: "/"
+    - title: "About"
+      url: "/about/"
+    - title: "Photography"
+      url: "/photography/"
+    - title: "Contact"
+      url: "/contact/"
+
+# Social Links
+social:
+  - {
+      icon: "ion-logo-twitter",
+      color: "#55acee",
+      name: Twitter,
+      link: "https://twitter.com/abutikidnapper",
+    }
+  - {
+      icon: "ion-logo-instagram",
+      color: "#e4405f",
+      name: Instagram,
+      link: "https://instagram.com/abutikidnapper",
+    }
+
+# Example of adding a new link to the footer - {icon: "ion-logo-youtube", color: "#ff0000", name: Youtube, link: "https://youtube.com"}
+# Other icons can be found at https://ionicons.com/v4/
+
+#-------------------------------
+# Contact Settings
+contact:
+  form_id: xvgobyak # Add your email for contant form
+
+# NOTE
+# Dann theme comes with a contact form built-in. You can use this form with Formspree (https://formspree.io/) service and get up to 50 submissions for free. Also, you can easily switch to another service if you want.
+
+#-------------------------------
+# Comment Section (Disqus)
+disqus:
+  enable: false
+  disqus__identifier: anvod-studio-test # Add your shortname for Disqus Comment. For example anvod-studio-test
+
+#-------------------------------
+# Google Analytics
+google-analytics: # Add your GA Tracking Id
