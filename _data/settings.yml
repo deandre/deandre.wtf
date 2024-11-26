@@ -83,6 +83,7 @@ social:
       name: Instagram,
       link: "https://instagram.com/abutikidnapper",
     }
+  - { icon: "ion-logo-rss", color: "#000", name: Subscribe, link: "/feed.xml" }
 
 # Example of adding a new link to the footer - {icon: "ion-logo-youtube", color: "#ff0000", name: Youtube, link: "https://youtube.com"}
 # Other icons can be found at https://ionicons.com/v4/
