@@ -22,8 +22,6 @@ menu__settings:
       url: "/about/"
     - title: "Photography"
       url: "/photography"
-    - title: "Contact"
-      url: "/contact/"
 
 #-------------------------------
 # Hero Settings
@@ -66,8 +64,6 @@ footer__menu__settings:
       url: "/about/"
     - title: "Photography"
       url: "/photography/"
-    - title: "Contact"
-      url: "/contact/"
 
 # Social Links
 social:
